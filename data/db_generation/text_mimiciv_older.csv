@@ -1,0 +1,1381 @@
+subject_id,hadm_id,stay_id,note_id,note_type,note_seq,charttime,storetime,text
+18421337,22413411,30000484,18421337-DS-20,DS,20,2136-01-24T00:00:00Z,2136-01-24T14:24:00Z," 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Heparin Agents
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dyspnea 
+ 
+Major Surgical or Invasive Procedure:
+___ RIJ placement 
+___ ___ line placement
+ 
+History of Present Illness:
+___ yo man from ___ with h/o CAD, hypothyroidism, with 
+multiple recent hospitalizations including ___ at ___ 
+for L5 compression fracture c/b cauda equina and s/p 
+vertebroplasty and decompression/fusion, ___ at ___ for 
+polymicrobial hardware related vertebral osteomyelitis, and 
+___ at ___ for pneumonia, who presents with increased 
+dyspnea. At that admission he was noted to have a left pleural 
+effusion that was not drained as he oxgenated well on minimal 
+O2. He was discharged on ___ on 2L O2 requirement and 10-day 
+course of vancomycin and meropenem, which he completed ___. He 
+was switched to suppressive therapy with cefpodoxime and 
+augmentin on ___. 
+.
+According to pt's son, pt began to have increased difficulty 
+breathing and nonproductive cough 3 days ago but most noticeably 
+yesterday. He was able to participate in his usual ___ but did 
+have transient desaturation to upper ___. He was reportedly 
+given nebs without much effect. Evaluated by ___ MD this AM 
+for persistent dyspnea, cough, and wheezing. An EKG was done 
+(not sent) which was notable for T wave inversions in V3, and pt 
+received NTG en route to ___.  
+.  
+At ___, VS were: T 99.1, HR 92, BP 117/66, RR 20, O2at 
+100% 4LNC. Pt noted to be audibly wheezing on exam. WBC 20 with 
+76% neutrophils and 2% bands. Cardiac enzymes negative. EKG with 
+old RBBB but no TWI. He received duoneb with subjective 
+improvement and was transfered to ___ as he receives most of 
+his care here.  
+.  
+At ___ ___, initial VS were: T 97.9, HR 94 114/62 26 100 on 
+mask. Pt somnolent but responding to questions appropriately. 
+Still with audible wheezing. He was given nebs without 
+difference. Labs notable for WBC 30 (81 L, no bands), trop 0.16 
+with CK 40. EKG with RBBB and IVCD; unchanged from baseline. CXR 
+noted to have slight interval increase in size of left pleural 
+effusion from ___ with mild bibasilar atelectasis and no 
+radiographic evidence of CHF. CTA chest on prelim read with 
+increased moderate-sized pleural effusion with simple fluid 
+attenuation and associated compressive atelectasis. Also with 
+mild ground-glass opacity in the bilateral upper apices and 
+right middle lobe. No evidence of PE. Patient was given Zosyn 
+and levoquine 750mg. BP stayed in ___ but dropped to 60-80s for 
+unclear reasons although mentating ok per report. Improved to 
+130s after 500cc bolus IV fluid. On transfer, VS T 98.7, HR 102, 
+BP 133/64, RR 16, O2 sat 94-95% on 4L NC.  
+.  
+On the floor, pt somnolent and not responding to questioning. 
+Per son, at baseline he is conversant and interactive, able to 
+stand with assistance. He had been afebrile with no symptoms 
+other than SOB or cough. He has a G-tube in place for nutrition 
+but able to take po without e/o aspiration. He reportedly had 
+some chest wall pain from coughing but denied chest pain. No h/o 
+malignancy.
+.
+ROS (per son): As above. Soft stools at baseline but no change 
+in bowel habits. Edema worsened today. Pt has had fluctuating 
+leg edema since back surgery for which he receives lasix prn at 
+Rehab.
+ 
+Past Medical History:
+L5 compression fracture c/b cauda equina s/p vertebroplasty and 
+decompression/fusion ___ admission ___  
+Above c/b polymicrobial hardware related vertebral osteomyelitis 
+___ admission ___  
+Recent pneumonia as above ___ admission ___  
+CAD s/p CABG ___ years ago  
+Hyperlipidemia  
+Hypertension  
+Hypothyroidism
+S/p cataract surgery 
+ 
+Social History:
+___ 
+ 
+Family History:
+CAD. No h/o malignancy.
+ 
+Physical Exam:
+Physical Exam:  
+Vitals: T 96, HR 87, BP 97/51, RR 13, O2sat 100% on 4___  
+General: Somnolent, opens eyes to command.  
+HEENT: Sclera anicteric, MM dry, oropharynx clear  
+Neck: Supple, no LAD  
+Lungs: Coarse breath sounds with bibasilar rales and decreased 
+air movement at left base, no wheezes.  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: BS present, nontender, distended but soft with G tube 
+in place, +anasarca, bowel sounds present  
+GU: foley in place  
+Ext: warm, well perfused, pulses palpable, 3+ edema b/l
+
+Physical Exam (On the floor):
+Vitals: T 98.7, P 96, 159/89, 20, 100%RA  
+General: Awake, pleasant.  
+HEENT: Sclera anicteric, MM dry, oropharynx clear, +flaring 
+nostrils  
+Neck: Supple, no LAD  
+Lungs: Coarse breath sounds with bibasilar rales and decreased 
+air movement at left base, loud musical wheeze.  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: BS present, nontender, distended but soft with G tube 
+in place, +anasarca, bowel sounds present  
+GU: foley in place  
+Ext: warm, well perfused, pulses palpable, 3+ edema b/l  
+Neuro: A+Ox2, not oriented to date. CNII-XII intact. Motor ___ 
+upper and lower extremities.    
+ 
+Pertinent Results:
+Labs: 
+___ 01:10PM BLOOD WBC-30.1*# RBC-3.29* Hgb-9.9* Hct-31.0* 
+MCV-94 MCH-30.1 MCHC-32.0 RDW-17.8* Plt ___
+___ 01:10PM BLOOD Neuts-81* Bands-0 Lymphs-5* Monos-2 
+Eos-10* Baso-0 ___ Metas-2* Myelos-0 NRBC-4*
+___ 01:21PM BLOOD ___
+___ 01:10PM BLOOD Glucose-127* UreaN-44* Creat-1.3* Na-136 
+K-4.3 Cl-101 HCO3-28 AnGap-11
+___ 04:28AM BLOOD Calcium-7.8* Phos-1.9*# Mg-2.3
+___ 01:10PM BLOOD ALT-14 AST-44* CK(CPK)-40 AlkPhos-109 
+TotBili-0.3
+___ 09:21PM BLOOD Albumin-2.5*
+.
+___ 03:58AM BLOOD WBC-18.3* RBC-3.03* Hgb-9.2* Hct-27.5* 
+MCV-91 MCH-30.5 MCHC-33.5 RDW-18.8* Plt ___
+___ 06:23AM BLOOD WBC-16.4* RBC-2.99* Hgb-9.2* Hct-27.4* 
+MCV-92 MCH-30.7 MCHC-33.5 RDW-19.0* Plt ___
+___ 05:36AM BLOOD WBC-19.3* RBC-2.97* Hgb-9.0* Hct-27.1* 
+MCV-91 MCH-30.4 MCHC-33.4 RDW-19.2* Plt ___
+___ 05:38AM BLOOD WBC-20.1* RBC-3.00* Hgb-9.1* Hct-27.4* 
+MCV-91 MCH-30.2 MCHC-33.1 RDW-19.7* Plt ___
+___ 05:19AM BLOOD WBC-22.6* RBC-2.82* Hgb-8.7* Hct-25.8* 
+MCV-91 MCH-30.8 MCHC-33.8 RDW-19.9* Plt ___
+___ 06:19AM BLOOD WBC-24.6* RBC-3.20* Hgb-10.0* Hct-29.4* 
+MCV-92 MCH-31.1 MCHC-33.9 RDW-19.3* Plt ___
+___ 05:44AM BLOOD WBC-23.7* RBC-2.94* Hgb-8.9* Hct-27.4* 
+MCV-93 MCH-30.4 MCHC-32.6 RDW-20.3* Plt ___
+___ 05:38AM BLOOD Neuts-53 Bands-0 Lymphs-16* Monos-10 
+Eos-20* Baso-0 Atyps-1* ___ Myelos-0 NRBC-4*
+___ 05:19AM BLOOD Neuts-64 Bands-2 Lymphs-15* Monos-9 
+Eos-9* Baso-0 ___ Metas-1* Myelos-0 NRBC-3*
+___ 06:19AM BLOOD Neuts-49* Bands-2 Lymphs-16* Monos-10 
+Eos-16* Baso-0 ___ Metas-2* Myelos-5* NRBC-5*
+___ 05:44AM BLOOD Neuts-60 Bands-0 Lymphs-14* Monos-8 
+Eos-16* Baso-0 ___ Metas-2* Myelos-0 NRBC-5*
+___ 03:58AM BLOOD Glucose-117* UreaN-36* Creat-1.2 Na-140 
+K-4.0 Cl-106 HCO3-28 AnGap-10
+___ 05:44AM BLOOD Glucose-121* UreaN-26* Creat-1.1 Na-131* 
+K-3.9 Cl-99 HCO3-25 AnGap-11]
+.
+___ 06:19AM BLOOD ALT-13 AST-30 TotBili-0.3
+.
+___ 03:25AM BLOOD Free T4-0.69*
+___ 09:21PM BLOOD TSH-6.9*
+.
+___ 03:53PM BLOOD Lactate-2.1*
+___ 05:14AM BLOOD Lactate-1.6
+.
+___ 01:10PM BLOOD CK(CPK)-40 CK-MB-NotDone  cTropnT-0.16*
+___ 09:21PM BLOOD CK(CPK)-74 CK-MB-NotDone cTropnT-0.18*
+___ 04:28AM BLOOD CK(CPK)-60 CK-MB-NotDone cTropnT-0.23*
+___ 03:25AM BLOOD CK(CPK)-38 CK-MB-NotDone cTropnT-0.20*
+.
+___ 01:10PM BLOOD proBNP-6239*
+.
+___ 09:21PM BLOOD TSH-6.9*
+___ 03:25AM BLOOD Free T4-0.69*
+.
+___ 09:21PM BLOOD CRP-56.5*
+___ 04:28AM BLOOD ESR-55*
+.
+___ 1:53 am Influenza A/B by DFA, Source: Nasopharyngeal 
+swab. 
+   DIRECT INFLUENZA A ANTIGEN TEST (Final ___: Negative 
+   DIRECT INFLUENZA B ANTIGEN TEST (Final ___: Negative   
+.
+___ 8:26 pm URINE Legionella Urinary Ag (Final ___: 
+NEGATIVE 
+.
+Microbiology: 
+___ BLOOD CULTURES x 2:NGTD
+.
+___ 6:10 pm URINE CULTURE (Final ___: YEAST. 
+~6OOO/ML. 
+.
+   OVA + PARASITES (Final ___: 
+      NO OVA AND PARASITES SEEN. 
+      This test does not reliably detect Cryptosporidium, 
+Cyclospora or
+      Microsporidium. While most cases of Giardia are detected 
+by routine
+      O+P, the Giardia antigen test may enhance detection when 
+organisms
+      are rare. 
+.
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final ___: 
+      Feces negative for C.difficile toxin A & B by EIA. 
+           (Reference Range-Negative). 
+.
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   WOUND CULTURE (Final ___: 
+      YEAST.    RARE GROWTH. 
+      ENTEROCOCCUS SP..    RARE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |   
+AMPICILLIN------------  =>32 R
+LINEZOLID-------------     2 S
+PENICILLIN G----------  =>64 R
+VANCOMYCIN------------  =>32 R
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+.
+Blood Culture, Routine (Final ___:    NO GROWTH. 
+.
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+.
+___ CXR: Slight interval increase in size of left pleural 
+effusion. Mild bibasilar atelectasis. No radiographic evidence 
+of CHF. 
+.
+___ CTA Chest: 
+1. No evidence of PE. 
+2. Moderate-sized left pleural effusion may be slightly 
+increased in size 
+compared to prior. Decreased right pleural effusion. Associated 
+compressive atelectasis on the left. 
+3. Scattered ground-glass opacity and ___ opacity 
+suggestive of 
+infection or inflammation. 
+4. Unchanged extensive atherosclerotic calcification of the 
+thoracic aorta 
+with aneurysmal dilatation of the distal thoracic aorta up to 
+3.5 cm. 
+5. Probable tracheomalacia. 
+.
+___ TTE: Normal global and regional biventricular systolic 
+function. Mild diastolic LV dysfunction. Mild aortic 
+regurgitation. Mild pulmonary hypertension.
+.
+___ KUB: Unremarkable study.
+.
+___ CT ABD: 1. No intra-abdominal source of infection 
+identified. 2. Bilateral pleural effusions and dependent passive 
+atelectasis of the lower 
+lobes. 
+
+ 
+Brief Hospital Course:
+___ yo man with h/o CAD, hypothyroidism, compression fx c/b 
+polymicrobial hardware related vertebral osteomyelitis, and 
+recent admission for pneumonia p/w dyspnea/cough. 
+.
+Hypotension/sepsis: Per family, baseline BP usually 110s on 
+antihypertensives. Hypotensive to SBP ___ associated with 
+increased lethargy. Given leukocytosis with left shift, concern 
+for sepsis and started on broad empiric antibiotic coverage with 
+vanc, zosyn, levofloxacin for presumed HAP and oral vanc for 
+possible C. diff. Given IV fluid boluses with limited response 
+so started on dobutamine, which was switched to dopamine. Seen 
+by ID who recommended change in antibiotics from levofloxacin to 
+tobramycin as well as broadening of antibiotics to fluconazole 
+given heavy abx exposure and oral thrush. Also given 1 U pRBC 
+and albumin in order increase intravascular volume. Weaned off 
+dopamine on ___ with maintainance of blood pressures. Pt 
+afebrile and leukocytosis improving on broad antibiotics. 
+Diagnostic thoracentesis showed transudate with negative 
+cultures. KUB to evaluate for colitis showed gas-filled bowel of 
+normal caliber that was unremarkable. C. diff neg x 3. On the 
+medicine floor patient remained afebrile and normotensive, 
+however leukocytosis began to slowly increase. Metoprolol was 
+restarted. Based on ID recommendations tobramycin and 
+fluconazole were stopped on ___. PO Vancomycin was also held 
+after the third negative C. Diff toxin screen was negative. On 
+the floor the patient also recieved a CT of the Abdomen/Pelvis 
+that was negative for intraabominal infection. On CBC 
+differential an Eosinophilia was noted and thought to be related 
+to zosyn. Antibiotics were held on ___. Further on ___ the right 
+IJ was pulled and PICC line was placed. White count has slowly 
+trended down since antibiotics were held. 
+.
+Dyspnea/Cough/Pleural Effusion: On admission this was thought to 
+be related to a hospital acquired pneumonia given leukocytosis 
+and ground glass appearance on chest x-ray which is suggestive 
+of pneumonia. However congestive heart failure is also possible 
+given diastolic dysfunction Leukocytosis and ground glass 
+suggestive of pneumonia although CHF also on differential given 
+diastolic dysfunction on TTE. At this time the etiology is 
+unclear. Plearul effusion fluid is a transudate by Lights 
+Criteria. Pleural fluid cultures were negative. A CTA was 
+performed and negative for pulmonary embolism.  Ruled out for MI 
+(although mildly elevated troponins and flat CKs). Antibiotics 
+were initially started to empirically treat Hospital Acquired 
+Pneumonia. 
+.
+Osteomyelitis: In setting of spine instrumentation/hardware. 
+Swabs grew out rare bacteroides fragilis ( beta-lactamase 
+positive) on ___ and  E. coli and Klebsiella Oxytoca on ___. 
+Swab and bone tissue culture on ___ grew out E. coli and B. 
+fragilis. Treated with course of meropenem/ertapenem, completed 
+___ and switched to suppressive therapy with cefpodoxime and 
+augmentin.  Inflammatory markers decreasing since mid ___. 
+Cefpodoxime and augmentin were held given broad antibiotics 
+being used. On discharge patient was continued on Cefpodoxime 
+400mg Q12 Hours and Flagyl 500mg Q8 hours. 
+.
+Altered mental status: On admission patient had altered mental 
+status. This change in mental status was thought to be secondary 
+to acute illness and low blood pressure. Per discussion with 
+family patient is back to baseline. Patients neurontin and 
+remeron were held. 
+.
+Hypothyroidism: On admission patient's TSH was elevated at 6.4 
+with free T4 0.69. Levothyroxine was continued at home does 
+given acute illness. After discharge PCP should consider 
+adjusting dose. 
+.
+CAD: H/o CAD s/p CABG ___ years ago. Patient's EKG were at 
+baseline while admitted at ___. Initially troponins were 
+elevated during hypotensive episode, however MI was ruled out as 
+serial enzymes were flat. Further, a TTE was performed which 
+showed no wall motion abnormalities. Contined out outpt ASA. On 
+the floor when patients blood pressure normalized metoprolol was 
+restarted. 
+.
+Chronic renal failure: Patient's creatinine was at baseline 
+during the admission. Urine output continued to be excellent. 
+All medications were renally dosed. 
+.
+PICC Line: PICC line was placed on ___ by interventional 
+radiology. Over the next ___ hours the line migrated out and is 
+now a midline. The line should not be drawn from and could be 
+removed given patient is not recieving IV antibiotics. 
+ 
+Medications on Admission:
+Vancomycin 1g IV qod (last day ___  
+Meropenem 1g bid (last day ___  
+Cefpodoxime 400mg bid (started ___  
+Augmentin 875 mg bid (started ___  
+Flagyl 500mg tid?  
+Atrovent 0.5mg q6h  
+Albuterol 2.5 mg q6h  
+Omeprazole 20mg daily  
+MVI  
+Dulcolax 10mg daily  
+Lactobacillus tablets bid  
+Lovenox 30mg daily  
+Remeron 7.5mg nightly  
+Synthroid 50 mcg daily  
+Neurontin 300mg bid  
+Vitamin D 1000 units daily  
+Calcium carbonate 650 mg bid  
+Tylenol ___ q4h prn  
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+SIRS vs. Sepsis
+
+ 
+Discharge Condition:
+stable. afebrile. sating 100% on Room Air
+
+ 
+Discharge Instructions:
+You were admitted to the hospital from your rehab facility after 
+you developed shortness of breath and cough. Initially you were 
+thought to have been having an infection but ultimately it was 
+determined that this elevated white count was related to the 
+antibiotics you were recieving. 
+
+Please make all of your follow up appointments. Please see the 
+attached list for the most up to date medication regiment. 
+
+Please return to your hospital if you experience chest pain, 
+shortness of breath, fevers, or abdominal pain. 
+ 
+Followup Instructions:
+___
+"
+12980335,23552849,30001148,12980335-DS-15,DS,15,2156-09-03T00:00:00Z,2156-09-03T12:55:00Z," 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea on exertion
+
+ 
+Major Surgical or Invasive Procedure:
+___:
+Coronary artery bypass grafting x5 with left
+internal mammary artery to left anterior descending artery
+and reverse saphenous vein graft to the first and second
+obtuse margin artery and sequential reverse saphenous vein
+graft to the posterior descending artery and the posterior
+left ventricular branch artery.
+
+ 
+History of Present Illness:
+___ year old male with cardiac risk factors including smoking, 
+hypertension,
+hyperlipidemia.  During the course of workup for prostate 
+surgery, stress test was abnormal and cardiac catheterization 
+revealed three vessel disease.  He is transferred for surgical 
+revascularization.
+
+ 
+Past Medical History:
+hypertension
+hypercholesterolemia
+tobacco abuse
+benign prostatic hyperplasia
+tonsillectomy
+
+ 
+Social History:
+___
+
+ 
+Family History:
+non-contributory
+
+ 
+Physical Exam:
+Pulse: 56 Resp: 16 O2 sat:  98%RA
+B/P  Right: 143/74   Left: 
+Height: 6'    Weight: 145lb
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [] no edema or varicosities
+Neuro: Grossly intact x
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 2+  Left: 2+
+___           Right: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit     no bruits appreciated
+
+ 
+Pertinent Results:
+Pre-CPB: ___
+No spontaneous echo contrast is seen in the left atrial 
+appendage. 
+Overall left ventricular systolic function is low normal (LVEF 
+50-55%). 
+Right ventricular chamber size and free wall motion are normal. 
+There are simple atheroma in the descending thoracic aorta. 
+The aortic valve leaflets (3) appear structurally normal with 
+good leaflet excursion and no aortic regurgitation. The mitral 
+valve leaflets are mildly thickened. Mild (1+) mitral 
+regurgitation is seen. 
+There is no pericardial effusion. 
+
+___ 08:06AM BLOOD Hct-26.2*
+___ 06:41AM BLOOD Hct-26.5*#
+___ 04:24AM BLOOD WBC-11.7* RBC-2.02*# Hgb-6.5*# Hct-19.1*# 
+MCV-95 MCH-32.1* MCHC-33.9 RDW-14.3 Plt ___
+___ 08:06AM BLOOD UreaN-26* Creat-1.0 K-5.1
+___ 04:24AM BLOOD Glucose-123* UreaN-23* Creat-1.0 Na-136 
+K-4.2 Cl-102 HCO3-28 AnGap-10
+___ 02:01AM BLOOD Glucose-119* UreaN-12 Creat-0.6 Na-138 
+K-4.7 Cl-108 HCO3-25 AnGap-10
+ 
+Brief Hospital Course:
+Transferred in from outside hospital and underwent preoperative 
+workup.  On ___ he was brought to the operating room and 
+underwent coronary artery bypass grafting x5 with left internal 
+mammary artery to left anterior descending artery and reverse 
+saphenous vein graft to the first and second obtuse margin 
+artery and sequential reverse saphenous vein graft to the 
+posterior descending artery and the posterior
+left ventricular branch artery.  See operative note for full 
+details.  Overall the patient tolerated the procedure well and 
+post-operatively was transferred to the ___ in stable 
+condition for recovery and invasive monitoring. POD 1 found the 
+patient extubated, alert and oriented and breathing comfortably. 
+The patient was neurologically intact and hemodynamically stable 
+on no inotropic or vasopressor support.  Beta blocker was 
+initiated and the patient was gently diuresed toward the 
+preoperative weight.  The patient was transferred to the 
+telemetry floor for further recovery.  Chest tubes and pacing 
+wires were discontinued without complication.  His Foley 
+catheter was left in as he has a history of benign prostatic 
+hypertrophy and the is awaiting TURP.  He is to be discharged 
+with a leg bag home. The patient was evaluated by the physical 
+therapy service for assistance with strength and mobility.  He 
+was started on FeSO4 for a hematocrit of 23.9 at the time of 
+discharge.  He was asymptomatic and is to have visiting nurses 
+check hematocrit in ___ days and call results in to his PCP.  By 
+the time of discharge on POD 4 the patient was ambulating 
+freely, the wound was healing and pain was controlled with oral 
+analgesics.  The patient was discharged home in good condition 
+with appropriate follow up instructions.
+
+ 
+Medications on Admission:
+pravastatin 20mg daily
+lisinopril 10mg daily
+colace
+amlodipine 5mg daily
+aspirin 162mg daily
+
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+3. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 
+4 hours) as needed for pain/fever.  
+4. Oxycodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q4H (every 4 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+5. Ipratropium-Albuterol ___ mcg/Actuation Aerosol Sig: Two 
+(2) Puff Inhalation Q4H (every 4 hours) as needed for shortness 
+of breath or wheezing.
+Disp:*1 * Refills:*0*
+6. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+7. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*100 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+8. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig: 
+One (1) Tab Sust.Rel. Particle/Crystal PO every ___ 
+hours for 7 days.
+Disp:*7 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+9. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+10. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily) for 1 months.
+Disp:*30 Tablet(s)* Refills:*0*
+11. Senna 8.6 mg Tablet Sig: ___ Tablets PO BID (2 times a day) 
+as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+12. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day for 7 
+days.
+Disp:*7 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Coronary artery disease s/p CABG 
+hypertension
+hypercholesterolemia
+tobacco abuse
+benign prostatic hyperplasia
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal 
+Ambulating with  steady gait
+
+Incisional pain managed with Percocoet
+
+Incisions: 
+
+Sternal - healing well, no erythema or drainage 
+Leg Left - healing well, no erythema or drainage. 2+ Edema 
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming until cleared by surgeon. Look at 
+your incisions daily for redness or drainage
+
+Please NO lotions, cream, powder, or ointments to incisions 
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart 
+
+No driving for approximately one month until follow up with 
+surgeon
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+Females: Please wear bra to reduce pulling on incision, avoid 
+rubbing on lower edge
+
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___
+"
+12168737,29283664,30001336,12168737-DS-20,DS,20,2186-03-22T00:00:00Z,2186-03-22T22:08:00Z," 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain, dyspnea
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year old ___ speaking Male w past medical history 
+hypertension, diabetes mellitus type 2, chronic kidney disease, 
+hypothyroidism, Colon and bladder cancer, admitted to ___ 
+___ with 3 days of dyspnea, found to have new onset 
+congestive heart failure with elevated beta natriuretic peptide, 
+then had chest pressure with elevated troponin and EKG changes, 
+transferred to ___ with concern for inferior myocardial 
+infarction. Transferred to Cardiac Care Unit given concern for 
+ST elevation myocardial infarction. 
+
+Patient had 1 week poor appetite, ___ days worsening dyspnea, 
+with exertion, then at rest, orthopnea, fatigue, subjective 
+fever of 99. Has not taken any of his medications in the last 
+___ days due to blood pressure at home readings with systolic 
+blood pressure in the low 100s, though his baseline is 130-140. 
+
+At ___, patient had crackles, orthopnea, 1+ lower extremity 
+pitting edema, chest x-ray with mild pulmonary edema, and his 
+oxygen saturation was 88%. Received 2 liters nasal cannula 
+oxygen, 20 mg IV Lasix with 800 cc urine output resulting. EKG 
+showed: Low voltage, Q-waves in II, III, aVF with no reciprocal 
+changes.
+
+Patient later noted to have chest pain, diaphoresis, repeat EKG 
+with worsening concern for ST elevations in II, III, AVF and T 
+wave inversions still present with questionable ST depressions 
+in I/AVL. Troponin-T measured at 1.8 (elevated). Nitro paste 
+given with relief in symptoms. He was loaded w Aspirin 325 mg, 
+started on Heparin drip, given Atorvastatin 80 mg.
+
+Labs notable for Hemoglobin 9.2, Hematocrit 26.8, Sodium 130, 
+Troponin-T 1.80, CK-MB 2, proBNP 3810, Creatinine 1.1.
+
+On arrival to the Cardiac Care Unit:  Patient in No acute 
+distress, family at bedside, not having chest pain. Patient 
+endorses worsening dyspnea for a few days, decreased activity 
+tolerance, usually able to walk up to 5 kilometers without 
+difficulty, orthopnea. Patient had poor appetite but does no 
+weight change, no change in abdominal circumference, no lower 
+extremity swelling, no fever/chills. Review of systems was 
+otherwise negative.
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:
+- Diabetes T2, Hemoglobin A1c 5.6 on ___
+- Hypertension
+- ?Chronic kidney disease stage 2
+- Hypothyroidism
+- History of colon cancer, stage I, status post resection and 
+ostomy
+- History of bladder cancer, status post resection
+- ?Gout
+- Chronic normocytic anemia, baseline Hemoglobin 9.2, MCV 87
+- Community acquired pneumonia
+ 
+Social History:
+___
+ 
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death.
+ 
+Physical Exam:
+PHYSICAL EXAM UPON ADMISSION:
+VS: T 98.5  BP 110/52  HR 65  RR 30  O2 SAT 96% on 3 L
+GENERAL: Well developed, well nourished in NAD. Oriented x3. 
+Mood, affect appropriate.
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI. 
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa. 
+No xanthelasma.
+NECK: Supple. JVP of 10-12 cm.
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. Regular rate and rhythm. Normal S1, S2. No murmurs, rubs, 
+or gallops. 
+LUNGS: No chest wall deformities or tenderness. Respiration is 
+somewhat labored with some accessory muscle use, belly 
+breathing. Wheezes b/l, soft crackles b/l lung bases.
+ABDOMEN: Obese, soft, non-tender, non-distended. No 
+hepatomegaly. No splenomegaly.
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.
+SKIN: No significant skin lesions or rashes.
+PULSES: Distal pulses palpable and symmetric.
+
+PHYSICAL EXAM UPON DISCHARGE:
+VS: Temp afebrile BP 119/58 HR 68 RR 18 O2 SAT 98% on RA
+GENERAL: Well developed, well nourished in NAD. Oriented x3. 
+Mood, affect appropriate.
+HEENT: Normocephalic atraumatic. Sclera anicteric. Pink 
+conjunctiva. No pallor or cyanosis of the oral mucosa.
+NECK: Supple. Jugular venous pressure slightly elevated, 
+positive hepatojugular reflex.
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs, 
+rubs, or gallops. 
+LUNGS: No chest wall deformities or tenderness. No use of 
+accessory muscles. No wheezes, rales, ronchi.
+ABDOMEN: Obese, soft, non-tender, non-distended. No 
+hepatomegaly. No splenomegaly.
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.
+SKIN: No significant skin lesions or rashes.
+PULSES: Distal pulses palpable and symmetric.
+
+ 
+Pertinent Results:
+Admission Labs:
+___ 12:57AM BLOOD WBC-9.0# RBC-3.01* Hgb-8.9*# Hct-26.4* 
+MCV-88 MCH-29.6 MCHC-33.7 RDW-12.0 RDWSD-38.7 Plt ___
+___ 12:57AM BLOOD Neuts-74.8* Lymphs-11.4* Monos-13.0 
+Eos-0.1* Baso-0.4 Im ___ AbsNeut-6.71*# AbsLymp-1.02* 
+AbsMono-1.17* AbsEos-0.01* AbsBaso-0.04
+___ 12:57AM BLOOD ___ PTT-60.5* ___
+___ 12:57AM BLOOD CK-MB-2 cTropnT-1.60*
+___ 12:57AM BLOOD ALT-62* AST-38 AlkPhos-281* TotBili-0.9
+___ 12:57AM BLOOD Glucose-112* UreaN-17 Creat-1.1 Na-131* 
+K-4.2 Cl-97 HCO3-22 AnGap-16
+___ 12:57AM BLOOD Albumin-3.3* Calcium-8.4 Phos-4.0 Mg-1.8
+___ 06:30AM BLOOD calTIBC-178* Ferritn-471* TRF-137*
+___ 06:30AM BLOOD TSH-3.4
+
+Notable Labs:
+Admission Creatinine 1.1, Discharge 0.9
+Hemoglobin 8.9 / Hemotocrit 26.4, Discharge 9.5/28.9
+CK-MB 2, Troponin T 1.6 (peaked at 1.8 at ___
+proBNP 3810
+Admission Sodium 130, Discharge 136
+
+Discharge Labs:
+___ 05:01AM BLOOD WBC-7.5 RBC-3.22* Hgb-9.5* Hct-28.9* 
+MCV-90 MCH-29.5 MCHC-32.9 RDW-12.0 RDWSD-39.3 Plt ___
+___ 05:01AM BLOOD Plt ___
+___ 05:01AM BLOOD Glucose-110* UreaN-16 Creat-0.9 Na-136 
+K-4.6 Cl-100 HCO3-25 AnGap-16
+___ 05:01AM BLOOD ALT-77* AST-48* AlkPhos-430* TotBili-0.5
+
+Imaging:
+ECHOCARDIOGRAM ___
+
+The left atrium is normal in size. The estimated right atrial 
+pressure is ___ mmHg. Left ventricular wall thicknesses are 
+normal. The left ventricular cavity is moderately dilated. There 
+is mild regional left ventricular systolic dysfunction with 
+akinesis of the basal inferior wall and hypokinesis of the 
+basal-mid inferolateral walls. The remaining segments contract 
+normally (LVEF = 60 %). [Intrinsic left ventricular systolic 
+function is likely more depressed given the severity of valvular 
+regurgitation.] Tissue Doppler imaging suggests an increased 
+left ventricular filling pressure (PCWP>18mmHg). The right 
+ventricular free wall is hypertrophied with borderline normal 
+free wall function. The aortic valve leaflets (3) are mildly 
+thickened but aortic stenosis is not present. Trace aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. Moderate to severe 
+(3+) posteriorly directed mitral regurgitation is seen due to 
+tethering of the posterior mitral valve leaflet and a dilated 
+basal left ventricle. The tricuspid valve leaflets are mildly 
+thickened. There is moderate pulmonary artery systolic 
+hypertension. There is a trivial/physiologic pericardial 
+effusion. 
+
+ IMPRESSION: Focal left ventricular dysfunction c/w prior CAD/ 
+MI (RCA distribution) with overall likely effective reduced 
+ejection fraction due to moderate to severe functional mitral 
+regurgitation. Suggestion of elevated LV filling pressure. 
+Moderate pulmonary hypertension.  
+
+CHEST X-RAY ___:  Pulmonary edema, Right side pleural effusion
+ 
+Brief Hospital Course:
+___ y/o ___ speaking M w PMH HTN, T2DM, CKD, 
+hypothyroidism, Colon and bladder CA, admitted to ___ w 3 
+days of SOB, found to have new onset CHF w elevated BNP, then 
+had chest pressure with elevated troponin and EKG changes, 
+transferred to ___ with concern for inferior MI, found to have 
+inferior STEMI.
+
+Acute Problems Treated During Hospitalization:
+
+# INFERIOR STEMI:  
+Patient had elevated troponin-T, an EKG with T wave inversions 
+in inferior leads, Q waves in III, ST elevations in III/aVF upon 
+transfer from outside hospital. Bedside echo upon admission 
+showed akinesis of the inferolateral wall suggesting an 
+infarcted area. Pt was treated for ACS with 48 hours of heparin 
+drip, ASA 325 and Lipitor 80. Cardiac enzymes were trended with 
+Troponin-T peaking at 1.8 and CK-MB remaining flat. Medications 
+were optimized for post-STEMI care: aspirin 81 mg daily, 
+clopidogrel 75 mg daily with a 300 mg load, atorvastatin 80 mg 
+daily, metoprolol succinate 12.5 mg daily, furosemide 20 mg 
+every other day, Valsartan 160 mg daily. He was planned for 
+cardiac catheterization with possible need for surgical mitral 
+valve replacement, however due to financial reasons (traveler's 
+insurance expired) it was not feasible for him to continue care 
+in the ___. He is therefore returning to ___ for 
+medical care after being medically optimized. We have advised 
+cardiac catheterization to assess remaining coronary anatomy and 
+a prelude to possible mitral valve repair.
+
+#Mitral regurgitation:
+Echo on ___ revealed at least moderate to severe (3+) 
+posteriorly directed mitral regurgitation related to recent 
+inferior MI. We suspect the severity of MR is underestimated due 
+to eccentric nature. MR requires further work up and patient may 
+require mitral valve repair.
+
+# Acute onset diastolic congestive heart failure, secondary to 
+inferior wall myocardial infarction with preserved overall EF 
+and moderate to severe mitral regurgitation:
+Patient was hypervolemic on admission with elevated BNP, 
+symptoms of fluid overload, most notably dyspnea with oxygen 
+requirement, wheezing on lung exam, and elevated jugular venous 
+pressure, all of which resolved by time of discharge. Treatment 
+included IV Lasix and continued afterload reduction with 
+valsartan, and nasal cannula oxygen supplementation. On the day 
+of discharge, 20 mg PO Lasix was added as a standing medication 
+to be taken every other day. Home nebivolol, amlodipine, and the 
+hydrochlorothiazide portion of the valsartan-HCTZ combination 
+pill was discontinued. Echo completed ___ showed left ventricle 
+ejection fraction 60% (likely overestimated due to degree of 
+mitral regurgitation), focal left ventricular dysfunction 
+consistent with prior coronary artery disease / myocardial 
+infarction (right coronary artery distribution) with overall 
+likely effective reduced ejection fraction due to moderate to 
+severe (3+) functional mitral regurgitation. Pt was instructed 
+to weigh himself daily and if weight increased by 2 pounds to 
+begin furosemide 20 mg PO daily.
+
+# Hypoxia on admission, likely secondary to pulmonary edema:
+Treated with diuresis and supplemental oxygen, and resolved by 
+discharge.  
+
+# Mild transaminitis, likely acute secondary to congestive 
+hepatopathy, was followed with daily labs, remained elevated on 
+day of discharge. Should be followed upon discharge.
+
+Chronic Problems Treated During Hospitalization:
+
+# Type 2 Diabetes Mellitus: Hemoglobin A1c measured at 5.6, 
+blood sugars well controlled with insulin sliding scale. Resumed 
+home metformin upon discharge.
+ 
+# CKD Stage II?: Baseline from previous hospitalization 
+documented as 1.5-1.7. Creatinine was trended to 0.9 on 
+discharge.
+
+# Benign Essential Hypertension was well controlled with new 
+medications. Home nebivolol, amlodipine, and hydrochlorothiazide 
+were replaced with post-STEMI medications to good effect.
+
+# Anemia, normocytic chronic was monitored, remained at 
+baseline.
+
+# Hypothyroidism was treated with home levothryoxine 25 mcg 
+daily. TSH: 3.4
+
+# Gout was treated with home allopurinol ___ daily.
+
+**Transitional issues include**
+
+- NEW medications: aspirin 81 mg daily, clopidogrel 75 mg daily, 
+atorvastatin 80 mg daily, metoprolol succinate 12.5 mg daily, 
+furosemide 20 mg every other day, valsartan 160 mg daily
+- STOPPED medications: nebivolol 5 mg daily, amlodipine 10 mg 
+daily, combination valsartan-hydrochlorothiazide 160/12.5 mg 
+daily
+- Needs cardiac catheterization to determine extent of coronary 
+artery disease
+- Needs transesophageal echocardiography and mitral valve 
+replacement pending results of catheterization
+- Transaminases remain elevated on day of discharge, please 
+follow up.
+- Clarification whether the patient actually has gout: he came 
+in on allopurinol ___ mg daily but family is unclear if there is 
+a history of gout / need for this medication
+- Unclear history of chronic kidney disease. Discharge 
+creatinine 0.9 mg/dL.
+- Workup for likely chronic obstructive pulmonary disease (COPD)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Allopurinol ___ mg PO DAILY 
+2. amLODIPine 10 mg PO DAILY 
+3. Doxazosin 2 mg PO HS 
+4. Levothyroxine Sodium 25 mcg PO DAILY 
+5. MetFORMIN (Glucophage) 1000 mg PO DAILY 
+6. nebivolol 5 mg oral DAILY 
+7. Valsartan 160 mg PO DAILY 
+8. Hydrochlorothiazide 12.5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Adult Low Dose Aspirin] 81 mg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*0 
+3.  Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+4.  Furosemide 20 mg PO EVERY OTHER DAY 
+RX *furosemide 20 mg 1 tablet(s) by mouth every other day Disp 
+#*30 Tablet Refills:*0 
+5.  Metoprolol Succinate XL 12.5 mg PO DAILY 
+RX *metoprolol succinate 25 mg 0.5 (One half) tablet(s) by mouth 
+daily Disp #*15 Tablet Refills:*0 
+6.  Allopurinol ___ mg PO DAILY 
+Ask your doctor if you still need this medication.  
+7.  Doxazosin 2 mg PO HS  
+8.  Levothyroxine Sodium 25 mcg PO DAILY  
+9.  MetFORMIN (Glucophage) 1000 mg PO DAILY  
+10.  Valsartan 160 mg PO DAILY 
+RX *valsartan 160 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:  ST elevation myocardial infarction (heart 
+attack)
+
+Secondary Diagnoses:  Acute congestive heart failure, mitral 
+regurgitation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+We had the pleasure of taking care of you in the Cardiac Care 
+Unit during your stay at ___ in 
+___. Below is a summary of your stay:
+
+# Why did I come to the hospital?
+- You were admitted to the hospital because you had trouble 
+breathing.
+- We found that you had a heart attack that caused fluid build 
+up in your lungs, leading to breathing difficulties.
+
+# What happened while I was in the hospital?
+- You got oxygen and medicine that removed extra fluid from your 
+body and this helped your breathing.
+- You had blood tests and heart images that showed you had a 
+heart attack.
+- We think the heart attack happened ___ days before you came to 
+the hospital.
+- We treated your heart attack with medicines to thin your blood 
+and to help your heart heal after a heart attack.
+- We found that your heart muscle is not pumping normally 
+because of the heart attack. This is called congestive heart 
+failure.
+- We gave you new medicines to prevent another heart attack.
+
+# What should I do when I leave the hospital?
+- You should weigh yourself every day. If you gain more than two 
+pounds, you should start taking furosemide every day.
+- You should take all of your NEW medicines:
+**Clopidogrel 75 mg daily: blood thinner
+**Aspirin 81 mg daily:  blood thinner
+**Metoprolol Succinate XL 12.5 mg daily:  protects your heart
+**Atorvastatin 80 mg daily:  protects your heart
+**Furosemide 20 mg every other day:  water pill, removes extra 
+fluid
+**Valsartan 160 mg daily:  blood pressure pill
+
+********It is VERY IMPORTANT that you take ALL of your new 
+medicines 
+ and do not miss any doses.********
+
+- Do NOT take these medicines anymore:
+**Nebivolol 5 mg daily, replaced by metoprolol above
+**Amlodipine 10 mg daily
+**Combination Valsartan-Hydrochlorothiazide pill
+
+- Take all of your other home medicines as prescribed.
+- Please make a plan to immediately see your heart doctor when 
+you get home. You need a procedure to look at your heart's blood 
+vessels called cardiac catheterization, and you may need surgery 
+to fix one of your heart valves.
+-If you have any questions prior to leaving the ___, 
+you can call the heart ___ at ___.
+
+Best Wishes and Safe Travels to ___,
+
+Your ___ Team
+ 
+Followup Instructions:
+___
+"
+10332722,29393377,30005362,10332722-DS-17,DS,17,2157-01-03T00:00:00Z,2157-01-03T21:26:00Z," 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever, suprapubic pain, lower extremity edema
+ 
+Major Surgical or Invasive Procedure:
+Ultrasound-guided liver biopsy ___
+Bilateral nephrostomy tube replacement ___
+Right nephrostomy tube replacement ___
+ 
+History of Present Illness:
+Mr. ___ is an ___ male with past medical history notable for 
+HTN, stage III CKD, and bladder tumors who is s/p recent 
+cystoscopy and d transurethral resection of bladder tumor on 
+___ who presents to ED now with fevers and increasing ___ 
+edema. Imaging noted likely pulmonary and osseous metastatic 
+lesions. Pathology report of bladder mass revealed papillary 
+urothelial carcinoma, high grade with focal micropapillary 
+features; extensive necrosis; invasion into muscularis propria 
+present.  
+ 
+As of ___ at the time of his most recent hospital discharge he 
+was started on keflex antibiotics for UTI prophylaxis but since 
+that time he states he has experienced daily fevers to ___ 
+at home ___ monitoring vitals at home). He currently has 
+bilateral nephrostomy tubes and foley catheter in place. He 
+denies any headache, chest pain, dyspnea, cough, nausea, 
+vomiting, abdominal  
+pain, diarrhea.  
+ 
+He initially presented with ___ in late ___ and was found 
+to have obstructive nephropathy d/t bladder tumor. He has had 
+persistent leukocytosis over the past 2 weeks. In ED tonight his 
+initial vitals were: T ___, HR 80, BP 113/56, RR 18, and O2 sat 
+100% RA. Labs were remarkable for wbc 23, BUN 54, Cr 2.7, K 5.3 
+and ALP 244. Urine showed 34 RBC, >182 WBCs, few bacteria, 
+100+protein, moderate blood, Large leuks and negative nitrites. 
+Lactate WNL at 1.7  
+ 
+A CT abdomen this evening again revealed likely metastatic areas 
+in lungs, numerous osseous areas (sternum, ___ bones) and 
+para-aortic and RP LAD. New hypodensities also seen in the 
+liver.No overt perinephric abscesses on prelim CT report. He was 
+started on IV Zosyn with plan for admission to medicine with 
+urology consult planned.  
+ 
+REVIEW OF SYSTEMS:  
+(+) fevers ___ at home  
+Denies associated chills, night sweats, headache, vision 
+changes, rhinorrhea, congestion, sore throat, cough, shortness 
+of breath, chest pain, abdominal pain, nausea, vomiting, 
+diarrhea, BRBPR, melena, hematuria in collection 
+bags/nephrostomy.  
+ 
+Past Medical History:
+1. Hypertension.  
+2. Stage III chronic kidney disease likely secondary to  
+hypertensive nephrosclerosis and obstructive nephropathy.  
+3. Glaucoma  
+4. Right inguinal hernia  
+5. Metastatic bladder CA
+6. S/P cystoscopy and transurethral resection of bladder tumor 
+___, Dr. ___
+
+ 
+Social History:
+___
+
+ 
+Family History:
+Father died in his ___ of heart disease. Mother lived to her 
+___. Significant hypertension in the family.
+ 
+Physical Exam:
+ADMISSION EXAM
+VS - 98.9F, HR 92, BP 124/71, RR 18 96%  
+GENERAL - well-appearing, thin elderly male in NAD, A&Ox3, wife 
+at bedside, pleasant demeanor  
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear  
+NECK - supple, no thyromegaly, no LAD  
+LUNGS - poor aeration at bases, otherwise CTA, no accessory 
+muscle use  
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2  
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no 
+rebound/guarding  
+FLANK/BACK: 2 nephrostomy tubes in place at b/l locations 
+w/clear yellow urine draining, local skin surrounding tubes 
+c/d/i and area is nontender to palpation  
+EXTREMITIES - 2+ peripheral pulses (radials, DPs), pitting ___ 
+edema noted below the knees, slightly worse L>R  
+SKIN - no rashes or lesions  
+LYMPH - no cervical, axillary, or inguinal LAD  
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ in ___ & sensation grossly intact throughout, DTRs 2+ and 
+symmetric, cerebellar exam intact, gait deferred 
+ 
+DISCHARGE EXAM
+patient expired
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 03:15PM   WBC-23.2* RBC-3.94* HGB-10.8* HCT-34.0* 
+MCV-86 MCH-27.4 MCHC-31.7 RDW-14.7
+___ 03:15PM   NEUTS-76.4* LYMPHS-17.8* MONOS-5.3 EOS-0.3 
+BASOS-0.2
+___ 03:15PM   GLUCOSE-105* UREA N-54* CREAT-2.7* SODIUM-137 
+POTASSIUM-5.3* CHLORIDE-104 TOTAL CO2-21* ANION GAP-17
+___ 03:28PM   LACTATE-1.7 K+-5.0
+___ 03:15PM   ALT(SGPT)-33 AST(SGOT)-24 ALK PHOS-244* TOT 
+BILI-0.3
+___ 03:15PM   LIPASE-30
+___ 03:15PM   proBNP-2548*
+___ 03:15PM   ALBUMIN-3.0*
+___ 03:15PM URINE  COLOR-Yellow APPEAR-Cloudy SP ___
+___ 03:15PM URINE  BLOOD-SM  NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-LG
+___ 03:15PM URINE  RBC-25* WBC-36* BACTERIA-FEW YEAST-NONE 
+EPI-0
+___ 03:15PM URINE  AMORPH-FEW
+___ 05:20PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-100 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-LG
+___ 05:20PM URINE  RBC-34* WBC->182* BACTERIA-FEW 
+YEAST-NONE EPI-1
+ 
+CT ABD ___:
+1.  Limited study due to lack of IV contrast.  
+2.  New ill-defined hypodense lesions in both lobes of the 
+liver, are concerning for abscesses, particularly given the 
+rapid time course of development, with new metastatic disease 
+being a less likely differential consideration.  Further 
+assessment with MRI is recommended. 
+3.  Redemonstration of multiple pulmonary metastases, and pelvic 
+and 
+retroperitoneal lymphadenopathy with possible compression of the 
+left external iliac vein. 
+4.  Multiple lytic lesions noted within the iliac bones, 
+sternum, and left L2 transverse process, all increased in size, 
+consistent with worsening bony metastases. 
+5.  Right lower lobe opacity and small left pleural effusion are 
+slightly increased. Pneumonia must be excluded in the proper 
+clinical setting.  
+6.  Intraluminal soft-tissue density material within the bladder 
+may reflect blood products and/or residual disease. 
+7.  Status post bilateral nephrostomy catheters with resolution 
+of previously seen hydronephrosis. 
+ 
+TTE ___:
+The left atrium and right atrium are normal in cavity size. Left 
+ventricular wall thickness, cavity size and regional/global 
+systolic function are normal (LVEF >55%). Right ventricular 
+chamber size and free wall motion are normal. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen. The 
+mitral valve appears structurally normal with trivial mitral 
+regurgitation. There is no mitral valve prolapse. There is mild 
+pulmonary artery systolic hypertension. There is a very small 
+circumferential pericardial effusion. IMPRESSION: Normal 
+biventricular cavity sizes with preserved regional and global 
+biventricular systolic function. Pulmonary artery systolic 
+hypertension. Very small circumferential pericardial effusion. 
+No 2D or Doppler evidence of endocarditis. 
+ 
+MRI ABD ___:
+1.  Multiple T2 hyperintensities seen throughout the liver, the 
+largest in 
+segment V measuring 2.3 cm.  These are not fully characterized 
+given the lack of intravenous gadolinium; however, given the 
+acute development of these lesions with relative stability of 
+metastatic disease and the patient's clinical symptoms, these 
+are most compatible with abscesses.  If followup is desired, MRI 
+is recommended as this may serve as a baseline study. 
+2.  T2 isointense lesion in the anterior portion of the left 
+kidney is nonspecific but may represent a focus of metastatic 
+disease or a hematoma and is new from ___. 
+3.  Small-to-moderate right pleural effusion. 
+4.  Osseous and pulmonary metastatic disease which is better 
+characterized on the prior CT. 
+ 
+LIVER CORE BIOPSY ___:
+Poorly differentiated carcinoma, compatible with metastatic high 
+grade urothelial carcinoma. The tumor shows focal morphologic 
+similarities to the patient's previously biopsied bladder tumor 
+(___).  Immunostains of the tumor cells are diffusely and 
+strongly positive for cytokeratin 7, p63, and CK903, and 
+negative for cytokeratin 20, with satisfactory controls.  While 
+not specific, this immunophenotype is supportive of a urothelial 
+origin.  
+ 
+NEPHROSTOMY TUBE CHANGES ___:
+Successful exchange of bilateral 8 ___ nephrostomy tubes for 
+8 ___ all-purpose drains.  Urine samples were sent to lab for 
+analysis. No immediate complications. 
+ 
+V/Q SCAN ___:
+Matching ventilation-perfusion defects. Low likelihood of 
+pulmonary embolism.  
+ 
+___ ___: 
+1. Probable nonocclusive thrombus in the left greater saphenous 
+vein that the confluence with the femoral vein. 
+2. Continued lack of respiratory variation deep in the left 
+common femoral vein Doppler waveforms raises concern for left 
+the iliac vein obstruction.  This is likely related to the iliac 
+lymphadenopathy seen on the prior CT. 
+ 
+CT THORAX ___:
+1.  Limited study due to lack of IV contrast. 
+2.  There has been progression of bilateral pulmonary metastases 
+with interval increase in size. 
+3.  Moderate right pleural effusion with adjacent atelectasis.  
+However, the level of opacity at the right base is greater than 
+expected and likely 
+representative of infectious process. 
+4.  Bilateral nephrostomy tubes with moderate right hydroureter 
+and mild left hydroureter.  The bladder again appears diffusely 
+irregular and likely representative of residual masses with 
+possibility of hemorrhage as well. 
+5.  Multiple lytic lesions are again noted in the iliac bones, 
+sternum, and left L2 transverse process. 
+6.  The large bowel is diffusely dilated without obstruction or 
+dilatation of the small bowel, likely representing functional 
+dilatation.  
+ 
+TTE ___: Left ventricular wall thicknesses and cavity size 
+are normal. Left ventricular systolic function is hyperdynamic 
+(EF >80%). The right ventricular cavity is dilated with 
+borderline normal free wall function. The aortic valve leaflets 
+(3) are mildly thickened but aortic stenosis is not present. The 
+mitral valve leaflets are mildly thickened. Mild (1+) mitral 
+regurgitation is seen. There is moderate pulmonary artery 
+systolic hypertension. There is a trivial/physiologic 
+pericardial effusion. IMPRESSION: Hyperdynamic left ventricular 
+function. Dilated right ventricle with mild free wall 
+hypokinesis. Moderate pulmonary hypertension. Mild mitral 
+regurgitation. Compared with the prior study (images reviewed) 
+of ___, the right ventricle is dilated with mild 
+hypokinesis and the estimated pulmonary pressures are greater
+ 
+DISCHARGE LABS
+patient expired
+ 
+Brief Hospital Course:
+Mr. ___ was an ___ gentleman with HTN, CKD, advanced 
+metastatic papillary urothelial carcinoma (pulmonary, liver and 
+osseous lesions) who presented with high grade fevers and lower 
+extremity edema.  His course was notable for transfer to the 
+MICU due to shock that was likely a combination of septic shock 
+(HCAP, UTI) and cardiogenic shock (RV pressure/volume overload, 
+possibly from PE).  He was initially treated with antibiotics 
+and fluid status management, but his clinical status 
+deteriorated.  Ongoing goals of care discussions were held with 
+patient and family (wife ___ and ___, and he was 
+transitioned to comfort-focused care.  Family was at the bedside 
+and he died.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. traZODONE 50 mg PO HS:PRN sleep 
+3. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES BID 
+4. Hydrocodone-Acetaminophen (5mg-500mg) ___ TAB PO Q4H:PRN pain 
+
+5. Docusate Sodium 100 mg PO BID 
+6. Calcitriol 0.25 mcg PO DAILY 
+7. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+8. Bacitracin Ointment 1 Appl TP TID 
+
+ 
+Discharge Medications:
+patient expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+patient expired
+ 
+Discharge Condition:
+patient expired
+ 
+Discharge Instructions:
+patient expired
+ 
+Followup Instructions:
+___
+"
